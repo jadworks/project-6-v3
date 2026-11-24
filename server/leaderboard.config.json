@@ -1,0 +1,9 @@
+{
+  "identity": "guest",
+  "boards": [
+    {
+      "id": "completed-contracts-v1",
+      "rulesVersion": "v1"
+    }
+  ]
+}
